@@ -1,3 +1,9 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dataops.gif/220px-Dataops.gif">
 # dataops
 O que é DataOps?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r9qxJuruIbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Vídeo explicando o que é DataOps
+https://www.youtube.com/watch?v=r9qxJuruIbM
+
+# O que é DataOps segundo a documentação da Microsoft
+https://docs.microsoft.com/pt-br/azure/architecture/example-scenario/data-warehouse/dataops-mdw
+
