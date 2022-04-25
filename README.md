@@ -1,7 +1,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dataops.gif/220px-Dataops.gif">
 # dataops
 O que é DataOps?
-Vídeo explicando o que é DataOps
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dataops.gif/220px-Dataops.gif">
+# Vídeo explicando o que é DataOps
 https://www.youtube.com/watch?v=r9qxJuruIbM
 
 # O que é DataOps segundo a documentação da Microsoft
