@@ -1,0 +1,118 @@
+#corpo {
+    background-color: rgb(16, 31, 43);
+    color: rgb(195, 180, 180);
+}
+
+.centro {
+    text-align: center;
+}
+
+.botao {
+    display: inline;
+}
+
+.a {
+    color: white;
+    border: 100%;
+}
+
+.dataops {
+    background-color: #4b83dc;
+    border-radius: 0.625rem;
+    color: white;
+    padding: 0.9375rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 0.25rem 0.125rem;
+    cursor: pointer;
+}
+
+.dataops:hover {
+    background-color: rgb(9, 34, 253);
+}
+
+.ndataops {
+    background-color: #63fca0;
+    border-radius: 0.625rem;
+    color: white;
+    padding: 0.9375rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 0.25rem 0.125rem;
+    cursor: pointer;
+}
+
+.ndataops:hover {
+    background-color: #007730;
+}
+
+.qualidade {
+    background-color: #db54f9;
+    border-radius: 0.625rem;
+    color: white;
+    padding: 0.9375rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 0.25rem 0.125rem;
+    cursor: pointer;
+}
+
+.qualidade:hover {
+    background-color: #371825;
+}
+
+.riscos {
+    background-color: #f74c4c;
+    border-radius: 0.625rem;
+    color: white;
+    padding: 0.9375rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 0.25rem 0.125rem;
+    cursor: pointer;
+}
+
+.riscos:hover {
+    background-color: #7c0000;
+}
+
+.paragrafo {
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.paragrafo-riscos {
+    text-align: left;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.video {
+    text-align: center;
+}
+
+.footer {
+    text-align: right;
+}
+
+.footer button {
+    background-color: #74ffdf;
+    border-radius: 0.625rem;
+    color: white;
+    padding: 0.9375rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 0.25rem 0.125rem;
+    cursor: pointer;
+}
+
+.footer button:hover {
+    background-color: #000000;
+}
+
