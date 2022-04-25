@@ -1,4 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dataops.gif/220px-Dataops.gif">
 # dataops
 O que é DataOps?
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dataops.gif/220px-Dataops.gif">
